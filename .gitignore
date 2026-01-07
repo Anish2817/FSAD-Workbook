@@ -1,6 +1,4 @@
-".metadata/" 
-"GitVersionControl/" 
-".settings/" 
-".classpath" 
-".project" 
-"target/" 
+.metadata/
+target/
+*.class
+*.log
