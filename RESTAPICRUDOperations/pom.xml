@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>4.0.2</version>
-		<relativePath/> 
+		<version>4.0.3</version>
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.klu</groupId>
-	<artifactId>autowiring-demo-skill-5</artifactId>
+	<artifactId>RESTAPICRUDOperations</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>autowiring-demo-skill-5</name>
+	<name>RESTAPICRUDOperations</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -32,15 +32,15 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-webmvc</artifactId>
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
+			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>>
+	</dependencies>
 
 	<build>
 		<plugins>
