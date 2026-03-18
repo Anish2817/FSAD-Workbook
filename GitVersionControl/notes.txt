@@ -1,0 +1,13 @@
+SKILL-1: Git Version Control
+
+Objective:
+To understand basic Git operations such as initializing a repository,
+adding files, committing changes, creating branches, and pushing to GitHub.
+
+Files Created:
+1. main.java
+2. notes.txt
+
+Outcome:
+Successfully performed Git version control operations and
+pushed the project to GitHub on 03-01-2026.
